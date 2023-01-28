@@ -1,8 +1,8 @@
 ## Olá! Me chamo Josué Natan
 
-- Atualmente trabalhando com Front-End
-- Cursando ensino superior em Ciências da Computação
-- Focado em Html, Css e JavaScript
+- 😊 Atualmente trabalhando com Front-End
+- 🏬 Cursando ensino superior em Ciências da Computação
+- 🔥 Focado em Html, Css e JavaScript
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JosueNatan&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JosueNatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
