@@ -4,9 +4,12 @@
 - 🏬 Cursando ensino superior em Ciências da Computação
 - 🔥 Focado em Html, Css e JavaScript
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JosueNatan&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JosueNatan&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueNatan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/guiprei">
+  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=JosueNatan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueNatan&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueNatan&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,3 +26,5 @@
   <a href="https://www.linkedin.com/in/josu%C3%A9-oliveira-196a19249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/guiprei/guiprei/blob/output/github-contribution-grid-snake.svg)
